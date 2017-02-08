@@ -1,0 +1,2 @@
+# www.cspell.cn
+cspell
